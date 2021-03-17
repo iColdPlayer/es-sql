@@ -15,7 +15,7 @@ It uses:
 - Logstash as a connector or data pipe from MySQL to Elasticsearch (version 7.9.3)
 - Kibana for monitoring, data visualization, and debuging tool (version 7.9.3)
 
-![Architecture of this project](./docs/sync-elasticsearch-mysql.png)
+![Architecture of this project](./data/sync-elasticsearch-mysql.png)
 
 This repo is a valid prototype and works as it is, however it is not suitable for a production environment. Please refer to the official documentation of each of the above technologies for instructions on how to go live in your production environment.
 
